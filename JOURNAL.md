@@ -106,8 +106,29 @@ Back
 <img width="1988" height="900" alt="image" src="https://github.com/user-attachments/assets/e7914559-d557-4a2d-adbe-7adc2dce7f1e" />
 <img width="2044" height="926" alt="image" src="https://github.com/user-attachments/assets/4af08d2a-bc6b-4505-919a-a0096ad5e272" />
 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ # Making gasket mount + Case, exporting into github 
+ - Tue Sep 15
+ - 4 hrs
 
- 
+ I have worked on the case and designing the gasket mount so the porons would fit properly with the plate. The first thing I did was export KiCad's 3d viewer model into a .stl file so I can use it for modelling my case. Afterwards, I went into ai03's plate generator and asked an ai for the format in 60% keyboards. I downloaded the DFX and uploaded to Fusion360's uploads for the plate. After exporting both the model and plate, I started working on the case. I made the thickness of the plate 1.5mm and descaled every side of the switches by -0.2mm because there may be issues for fitting because of 3d printing. I then worked on the gasket mount with first making the porons and then building off it. I got information of dimensions of the porons just asking ai and giving it the source to what i'm deciding to buy from. A problem I had was because the top part of my PCB was empty, I was worried about sagging when making the keyboard. I just ignored this as I would just use more porons or damping foam to hold the keyboard from sagging. the top and bottom case took me a while just because I had to constantly check if the porons if between the case and plate + PCB. I also added the USBC hole for the bottom case + 6 holes through top and bottom case for screwing in with heat-set inserts. After finalizing the entire case, I added fillets and made the colour beige (just so it's easy to differentiate from the other components. I then exported the cad files into Github for 3d printing and proof of work. Here's some photos:
+
+Process of making the gasket mount case + the porons + PCB + plate
+<img width="2048" height="1292" alt="image" src="https://github.com/user-attachments/assets/4aeabeef-a81c-4339-be0d-669e88527944" />
+<img width="2086" height="1064" alt="image" src="https://github.com/user-attachments/assets/ad2a8759-dbe9-4713-a925-c0794651c43b" />
+<img width="1966" height="754" alt="image" src="https://github.com/user-attachments/assets/b2a02b8b-c62b-4b68-886c-f044af85872c" />
+<img width="2232" height="1090" alt="image" src="https://github.com/user-attachments/assets/63778e73-ca8b-4887-b9e0-3073cd80b252" />
+
+FINAL model showcase
+<img width="1578" height="1398" alt="image" src="https://github.com/user-attachments/assets/56e68a33-a7a2-4f6b-9836-6d05cee63606" />
+<img width="1976" height="766" alt="image" src="https://github.com/user-attachments/assets/6851f988-db7c-41d7-b2be-ba503f2cb1da" />
+<img width="1758" height="520" alt="image" src="https://github.com/user-attachments/assets/23f95dba-b6e6-417e-b874-19260a6d46f2" />
+
+
+
+
+
+
 
 
 
