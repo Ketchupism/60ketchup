@@ -124,7 +124,11 @@ FINAL model showcase
 <img width="1976" height="766" alt="image" src="https://github.com/user-attachments/assets/6851f988-db7c-41d7-b2be-ba503f2cb1da" />
 <img width="1758" height="520" alt="image" src="https://github.com/user-attachments/assets/23f95dba-b6e6-417e-b874-19260a6d46f2" />
 
-
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ # Finishing, writing README.md, writing BOM.csm, and writing submission form for grant
+ - Wed Sep 16
+ - 1.5 hrs
+it's finally finished
 
 
 
